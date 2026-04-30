@@ -1,4 +1,4 @@
-#include <stdio.h>   // ✅ doğru
+#include <stdio.h>
 
 int main(void)
 {
