@@ -1,5 +1,4 @@
-// Misspelled stdio.h
-#include <studio.h>
+#include <stdio.h>   // ✅ doğru
 
 int main(void)
 {
